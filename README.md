@@ -41,16 +41,16 @@ This Power BI project visualizes and analyzes data from the "World Happiness Rep
 ### Page 2: Factors Affecting Happiness
 - **Happiness by Region vs Key Factors (Stacked Bar Chart)**  
   (Key factors include: Social Support, Generosity, Freedom to Make Life Choices, Perceptions of Corruption, and Avg Happiness)
-  
+
 - **GDP vs Happiness Score (Scatter Chart)**
 
 ## Screenshots of the Power BI Report
 
 ### Page 1: Global Happiness Overview
-![PowerBI_Report_Page_1.png](Images\PowerBI_Report_Page_1.PNG)
+![PowerBI_Report_Page_1.png](./Images/PowerBI_Report_Page_1.PNG)
 
 ### Page 2: Factors Affecting Happiness
-![PowerBI_Report_Page_2.png](Images\PowerBI_Report_Page_2.PNG)
+![PowerBI_Report_Page_2.png](./Images/PowerBI_Report_Page_2.PNG)
 
 ## Tools Used
 - **Power BI**: For data visualization and dashboard creation.
